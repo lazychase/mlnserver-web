@@ -1,0 +1,5 @@
+﻿#ifdef _MLN_ENUM_DEFINE_MY_TYPE
+DAT(None, 0, "None")
+DAT(Apple, 1, "Apple")
+DAT(Orange, 2, "Orange")
+#endif

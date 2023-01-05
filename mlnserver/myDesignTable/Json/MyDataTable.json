@@ -1,0 +1,18 @@
+[
+  {
+    "ID": 0,
+    "StrValue": "apple",
+    "BooleanValue": true,
+    "ArrValue": [
+      0
+    ]
+  },
+  {
+    "ID": 0,
+    "StrValue": "apple",
+    "BooleanValue": true,
+    "ArrValue": [
+      0
+    ]
+  }
+]

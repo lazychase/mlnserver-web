@@ -1,0 +1,20 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg/master/scripts/vcpkg.schema.json",
+  "name": "mlnserver",
+  "version": "0.0.1",
+  "dependencies": [
+    "boost",
+    "openssl"
+  ],
+  "overrides": [
+    {
+      "name": "boost",
+      "version": "1.80.0"
+    },
+    {
+      "name": "openssl",
+      "version": "3.0.5"
+    }
+  ],
+  "builtin-baseline": "e46521db005de9208c9ed79ef4f96e212cb9a25a"
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "MYAPP_HTTP_PORT": 28888,
+  "REDIS_CONF": {
+    "REDIS_HOST": "127.0.0.1",
+    "REDIS_PORT": 6379,
+    "REDIS_PASSWD": "",
+    "REDIS_USE_REPLICA": false,
+    "REDIS_USE_CLUSTER": false,
+    "REDIS_SOCKET_TIMEOUT_MS": 2000,
+    "REDIS_SUB_CHANNELS": [ "lobbysvr", "syncsvr" ]
+  },
+  "MYSQL_CONF": {
+    "MYSQL_HOST": "127.0.0.1",
+    "MYSQL_PORT": 3306,
+    "MYSQL_USER": "root",
+    "MYSQL_PASSWD": "7878",
+    "MYSQL_DBNAME": "test",
+    "MYSQL_CONN_POOL_MAX": 20
+  }
+}
